@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\bin\Debug\De2_dethimau.exe.config
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\bin\Debug\De2_dethimau.exe
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\bin\Debug\De2_dethimau.pdb
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\obj\Debug\De2_dethimau.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\obj\Debug\De2_dethimau.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\obj\Debug\De2_dethimau.Form1.resources
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\obj\Debug\De2_dethimau.Properties.Resources.resources
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\obj\Debug\De2_dethimau.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\obj\Debug\De2_dethimau.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\obj\Debug\De2_dethimau.exe
+C:\Users\pc\Desktop\BTH-C#\De2_dethimau\De2_dethimau\obj\Debug\De2_dethimau.pdb

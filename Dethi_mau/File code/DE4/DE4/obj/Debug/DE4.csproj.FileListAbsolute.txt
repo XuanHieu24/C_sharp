@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\bin\Debug\DE4.exe.config
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\bin\Debug\DE4.exe
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\bin\Debug\DE4.pdb
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\obj\Debug\DE4.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\obj\Debug\DE4.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\obj\Debug\DE4.Form1.resources
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\obj\Debug\DE4.Properties.Resources.resources
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\obj\Debug\DE4.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\obj\Debug\DE4.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\obj\Debug\DE4.exe
+C:\Users\pc\Desktop\BTH-C#\DE4\DE4\obj\Debug\DE4.pdb

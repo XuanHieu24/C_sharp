@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\C#\BT_home\dk\dk\obj\Debug\dk.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\BT_home\dk\dk\obj\Debug\dk.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\C#\BT_home\dk\dk\obj\Debug\Login_Avatar_animation.Form1.resources
+C:\Users\pc\Desktop\C#\BT_home\dk\dk\obj\Debug\dk.Properties.Resources.resources
+C:\Users\pc\Desktop\C#\BT_home\dk\dk\obj\Debug\dk.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C#\BT_home\dk\dk\obj\Debug\dk.csproj.CoreCompileInputs.cache

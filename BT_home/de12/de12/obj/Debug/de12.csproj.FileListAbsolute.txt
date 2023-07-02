@@ -1,0 +1,11 @@
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\bin\Debug\de12.exe.config
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\bin\Debug\de12.exe
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\bin\Debug\de12.pdb
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\obj\Debug\de12.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\obj\Debug\de12.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\obj\Debug\de12.Form1.resources
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\obj\Debug\de12.Properties.Resources.resources
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\obj\Debug\de12.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\obj\Debug\de12.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\obj\Debug\de12.exe
+C:\Users\pc\Desktop\C#\BT_home\de12\de12\obj\Debug\de12.pdb

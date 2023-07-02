@@ -1,0 +1,21 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\bin\Debug\De1.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\bin\Debug\De1.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\bin\Debug\De1.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\obj\Debug\De1.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\obj\Debug\De1.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\obj\Debug\De1.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\obj\Debug\De1.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\obj\Debug\De1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\obj\Debug\De1.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1\De1\obj\Debug\De1.pdb
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\bin\Debug\De1.exe.config
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\bin\Debug\De1.exe
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\bin\Debug\De1.pdb
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\obj\Debug\De1.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\obj\Debug\De1.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\obj\Debug\De1.Form1.resources
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\obj\Debug\De1.Properties.Resources.resources
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\obj\Debug\De1.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\obj\Debug\De1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\obj\Debug\De1.exe
+C:\Users\pc\Desktop\C#\Dethi_mau\file de thi\De1\De1\obj\Debug\De1.pdb
